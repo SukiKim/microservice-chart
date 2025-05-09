@@ -3,12 +3,12 @@ entries:
   microservice:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-05-09T05:00:15.198918001Z"
+    created: "2025-05-09T05:04:20.327296507Z"
     description: A Helm chart for Kubernetes
     digest: 01e17884ae4ef56736df001123f85b6a2c13ebed075a784c93dfc6cd5fab351a
     name: microservice
     type: application
     urls:
-    - microservice-1.0.0.tgz
+    - https://raw.githubusercontent.com/sukikim/microservice-chart/main/microservice-1.0.0.tgz
     version: 1.0.0
-generated: "2025-05-09T05:00:15.197933202Z"
+generated: "2025-05-09T05:04:20.326033863Z"
